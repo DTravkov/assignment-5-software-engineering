@@ -1,0 +1,9 @@
+node_modules/
+.npm-cache/
+dist/
+public/pdfjs/
+.sites-runtime/
+test-results/
+playwright-report/
+*.zip
+*.log
